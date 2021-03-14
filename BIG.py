@@ -20,7 +20,7 @@ except ImportError:
 
     os.system('No Module Named Requests! type:pip2 install requests')
 
-    os.system('Then type: python2 BIG.py')
+    os.system('Then type: python2 fbi.py')
 
 try:
 
