@@ -162,7 +162,7 @@ logo = """
 
                                                                          
 
-\033[97 creater by rawa
+\033[97 edit tool by rawa
 
 Telegram-@OFF_RAWA
 
