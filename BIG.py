@@ -424,7 +424,7 @@ def action():
 
     xxx = str(len(id))
 
-    psb('[\xe2\x9c\x93] RAQMEK BNUSA: ' + xxx)
+    psb('[\xe2\x9c\x93] ZHMARE RAQAMAKAN: ' + xxx)
 
     time.sleep(0.5)
 
