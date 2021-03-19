@@ -186,9 +186,9 @@ logo2 = """\033[91m ________  ______   _____
 
 _______________________________________"""
 
-CorrectUsername = 'KURDSGIFT'
+CorrectUsername = 'MADARA'
 
-CorrectPassword = 'RAWA'
+CorrectPassword = 'RAWA1'
 
 os.system('clear')
 
